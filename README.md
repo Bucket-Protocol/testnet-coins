@@ -1,5 +1,5 @@
 # testnet-coins
-Create fake coin on testnet.
+Create fake coins on testnet.
 
 # Coin Types and Faucets
 WBTC
