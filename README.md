@@ -1,7 +1,12 @@
 # testnet-coins
 Create fake coins on testnet.
 
-# Coin Types and Faucets
+## Package ID
+```
+0xc50de8bf1f8f9b7450646ef2d72e80ef243b6e06b22645fceed567219f3a33c4
+```
+
+## Coin Types and Faucets
 WBTC
 ```
 0xc50de8bf1f8f9b7450646ef2d72e80ef243b6e06b22645fceed567219f3a33c4::wbtc::WBTC
